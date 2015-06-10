@@ -14,6 +14,7 @@
 		E27A38A01B27517D005CF543 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E27A389E1B27517D005CF543 /* LaunchScreen.xib */; };
 		E27A38AC1B27517E005CF543 /* BullsEye3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E27A38AB1B27517E005CF543 /* BullsEye3Tests.swift */; };
 		E27A38B61B289CDB005CF543 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E27A38B51B289CDB005CF543 /* AboutViewController.swift */; };
+		E27A38B81B28AF0D005CF543 /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = E27A38B71B28AF0D005CF543 /* BullsEye.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		E27A38AA1B27517E005CF543 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E27A38AB1B27517E005CF543 /* BullsEye3Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullsEye3Tests.swift; sourceTree = "<group>"; };
 		E27A38B51B289CDB005CF543 /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		E27A38B71B28AF0D005CF543 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		E27A38921B27517D005CF543 /* BullsEye3 */ = {
 			isa = PBXGroup;
 			children = (
+				E27A38B71B28AF0D005CF543 /* BullsEye.html */,
 				E27A38951B27517D005CF543 /* AppDelegate.swift */,
 				E27A38971B27517D005CF543 /* ViewController.swift */,
 				E27A38B51B289CDB005CF543 /* AboutViewController.swift */,
@@ -196,6 +199,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E27A389B1B27517D005CF543 /* Main.storyboard in Resources */,
+				E27A38B81B28AF0D005CF543 /* BullsEye.html in Resources */,
 				E27A38A01B27517D005CF543 /* LaunchScreen.xib in Resources */,
 				E27A389D1B27517D005CF543 /* Images.xcassets in Resources */,
 			);
